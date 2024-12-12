@@ -1,3 +1,6 @@
 [submodule "SubmoduleRepository"]
 	path = SubmoduleRepository
 	url = https://github.com/voki-ivanov-n/SubmoduleRepository
+[submodule "SubmoduleRepository3"]
+	path = SubmoduleRepository3
+	url = https://github.com/voki-ivanov-n/SubmoduleRepository3
